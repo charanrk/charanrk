@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Charan R K</h1>
-<h3 align="center">A passionate frontendA passionate in Cybersecurity and Ethical Hacker developer from India</h3>
+<h3 align="center">A passionate in Cybersecurity and Ethical Hacker</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=charanrk&label=Profile%20views&color=0e75b6&style=flat" alt="charanrk" /> </p>
 
@@ -10,6 +10,8 @@
 - 💬 Ask me about **Cybersecurity and Ethical Hacking, Cyber Attack, Cyber Crime**
 
 - 📫 How to reach me **charan.r.k.9964@gmail.com**
+
+- 📄 Know about my experiences [Charan R K](Charan R K)
 
 - ⚡ Fun fact **The Ethical Hacker Who Plays by the Rules – You can exploit vulnerabilities, crack passwords, and analyze malware, but you do it legally! A true White Hat. 🎩💻**
 
