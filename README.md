@@ -13,8 +13,6 @@
 
 - 📫 How to reach me **charan.r.k.9964@gmail.com**
 
-- 📄 Know about my experiences [Charan R K](Charan R K)
-
 - ⚡ Fun fact **The Ethical Hacker Who Plays by the Rules – You can exploit vulnerabilities, crack passwords, and analyze malware, but you do it legally! A true White Hat. 🎩💻**
 
 <h3 align="left">Connect with me:</h3>
